@@ -528,7 +528,7 @@ result:  2.993512211107218
 df2.std(axis = 0)
 
 
-# SOME VISALIZATIONS
+# SOME VISUALIZATIONS
 
 # DIAGRAM1 - Show the number of medications by age categories indicating genders and weight by changing the size of the points
 # Find the result of this diagram in the attachments (diagram1.jpg)
